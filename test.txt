@@ -7,5 +7,3 @@ working on test mode
 
 kuzlari yozdayu bahorda
 mendan mehring ayirmada
-
-bu faqat test uchun amalga oshirilmoqda jiddiy olmang 
