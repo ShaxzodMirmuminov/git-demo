@@ -10,7 +10,12 @@ mendan mehring ayirmada
 
 bu faqat test uchun amalga oshirilmoqda jiddiy olmang 
 
+<<<<<<< HEAD
 
 Eh juralar eh Juralar 
 borimda bor yug'imda yuq 
 sinib ketsam kunglingiz choq eh juralar
+=======
+bahor kelib jiyda gullaganda
+asalari kelar edi gullarga
+>>>>>>> main
