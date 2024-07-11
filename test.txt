@@ -12,3 +12,6 @@ bu faqat test uchun amalga oshirilmoqda jiddiy olmang
 
 bahor kelib jiyda gullaganda
 asalari kelar edi gullarga
+
+
+Faqat tag uchun 
